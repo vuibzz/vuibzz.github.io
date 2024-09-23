@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vuibzz.github.io/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/app/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/assets/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/css/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/data/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/includes/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/item/sitemap.html.gz
+Sitemap: https://vuibzz.github.io/src/sitemap.html.gz
